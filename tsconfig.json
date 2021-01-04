@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "removeComments": true,
+    "outDir": "./",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "watch": true
+  },
+  "files" :[
+    "main.ts"
+  ]
+}
